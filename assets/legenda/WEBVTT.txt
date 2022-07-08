@@ -1,0 +1,38 @@
+WEBVTT 
+
+1
+00:00:01.000 --> 00:00:03.300 
+olá meu nome é charle xavier de morais.
+
+2
+00:00:03.000 --> 00:00:06.000 
+moro aqui em monte alegre de minas...
+
+3
+00:00:06.100 --> 00:00:10.000
+tenho 31 anos de vida , sou casado.
+
+4
+00:00:06.100 --> 00:00:10.000
+já estudei na área do meio ambiente...
+
+5
+00:00:11.000 --> 00:00:13.000
+hoje trabalho na pecuária
+
+6
+000:00:13.100 --> 00:00:15.000
+hoje trabalho na pecuária
+
+7
+00:00:16.000 --> 00:00:19.000
+E resolvi na área de programação.
+
+8
+00:00:20.000 --> 00:00:25.000
+pelo que já pesquisei e olhei é uma área que precisa de muita gente pra trabalhar.
+
+
+9
+00:00:25.100 --> 00:00:29.000
+E eu quero aprender a programar.
